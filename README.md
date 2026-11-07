@@ -44,7 +44,7 @@ Sistema automatizado para resolver atividades e redações da plataforma [Sala d
 
 * **Desenvolvedor:** [hackermoon1](https://github.com/hackermoon1)
 
-* **Moon Scripts:** [Comunidade no Discord](https://discord.com/invite/moonscripts)
+* **Moon Scripts:** [Discord](https://discord.com/invite/moonscripts)
 
 ---
 
